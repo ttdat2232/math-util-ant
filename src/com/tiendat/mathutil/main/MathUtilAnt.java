@@ -15,6 +15,7 @@ public class MathUtilAnt {
      */
     public static void main(String[] args) {
         System.out.println(getFactorial(10));
+        System.out.println("More over, this message comes from a US-BUILT JAR FILE");
     }
     
 }
