@@ -1,3 +1,5 @@
+[![CI with GitHub Actions](https://github.com/ttdat2232/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg?branch=main)](https://github.com/ttdat2232/math-util-ant/actions/workflows/ci-with-ant.yml)
+
 # Welcome to Math Utility Repository
 
 ### You will find in this repo the following stuff:
