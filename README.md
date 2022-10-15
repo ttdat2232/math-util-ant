@@ -9,5 +9,9 @@
 
 ### Screen-shots
 
+![building project with ant](https://github.com/ttdat2232/math-util-ant/blob/main/screenshot/ant-building.png)
+
+![DDT resutl](https://github.com/ttdat2232/math-util-ant/blob/main/screenshot/testing-result.png)
+
 #### Connect me via dd220302@gmail.com
 #### Copyright &#169; 2022 Tiến Đạt
