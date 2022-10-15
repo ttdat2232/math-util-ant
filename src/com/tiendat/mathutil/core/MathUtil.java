@@ -14,7 +14,7 @@ public class MathUtil {
         if (n > 20 || n < 0) {
             throw new IllegalArgumentException("Number must be from 1 to 20"); 
         }
-        if (n == 1 || n == 0) return 1 + 1;
+        if (n == 1 || n == 0) return 1;
         return n* getFactorial(n-1);
     }
 }
