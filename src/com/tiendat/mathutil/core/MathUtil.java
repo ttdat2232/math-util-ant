@@ -15,6 +15,7 @@ public class MathUtil {
             throw new IllegalArgumentException("Number must be from 1 to 20"); 
         }
         if (n == 1 || n == 0) return 1;
+                System.out.println("I have something to say");
         return n* getFactorial(n-1);
     }
 }
